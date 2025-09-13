@@ -74,7 +74,7 @@ Simple Notes started as a fun experiment to create a tiny space to jot down quic
 
 1. **Clone the repository**
   ```bash
-    git clone https://github.com/yourusername/simple-notes.git
+    git clone https://github.com/iamalok123/simple-notes-chrome-extension-react.git
     cd simple-notes
   ```
 2. **Install dependencies**
