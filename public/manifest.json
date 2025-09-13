@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Notes",
+    "version": "1.0",
+    "description": "A simple note-taking Chrome extension.(Features : add , view and delete)",
+    "action":{
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
